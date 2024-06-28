@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分类 - Steven&#39;s blog</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>Categories - 分类 - Steven&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 28 Jun 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>English</title>
+    <link>http://localhost:1313/categories/english/</link>
+    <pubDate>Fri, 28 Jun 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Steven</name>
+    </author><guid>http://localhost:1313/categories/english/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>

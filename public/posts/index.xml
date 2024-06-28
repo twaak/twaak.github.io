@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - Steven&#39;s blog</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>所有文章 | Steven&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 28 Jun 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>http://localhost:1313/first_post/</link>
+    <pubDate>Fri, 28 Jun 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Steven</name>
+    </author><guid>http://localhost:1313/first_post/</guid>
+    <description><![CDATA[一、什么是DNSDNS服务器（Domain Name System Server）是一种网络服务器，它负责将域名转换为相应的IP地址。在互联网上，每个设备都需要一]]></description>
+</item><item>
+    <title>second</title>
+    <link>http://localhost:1313/second/</link>
+    <pubDate>Fri, 28 Jun 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Steven</name>
+    </author><guid>http://localhost:1313/second/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://jsd.cdn.zzko.cn/gh/soslane/picgo@main/path/cover%20%284%29.png" referrerpolicy="no-referrer">
+            </div>test]]></description>
+</item></channel>
+</rss>

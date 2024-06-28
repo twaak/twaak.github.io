@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>English - 分类 - Steven&#39;s blog</title>
+        <link>http://localhost:1313/categories/english/</link>
+        <description>English - 分类 - Steven&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 28 Jun 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/english/" rel="self" type="application/rss+xml" /><item>
+    <title>second</title>
+    <link>http://localhost:1313/second/</link>
+    <pubDate>Fri, 28 Jun 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Steven</name>
+    </author><guid>http://localhost:1313/second/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="https://jsd.cdn.zzko.cn/gh/soslane/picgo@main/path/cover%20%284%29.png" referrerpolicy="no-referrer">
+            </div>test]]></description>
+</item></channel>
+</rss>
