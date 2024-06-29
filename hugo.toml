@@ -434,8 +434,8 @@ optimizeImages = true
         enable = true
         owner = "twaak"
         repo = "gittalk"
-        clientId = "Ov23lipRnQbdR3RXDrMD"
-        clientSecret = "bb7049bf7ee3e4ab330b53f1c1059d7e219af002"
+        clientId = "Ov23limXIn0amKjW1b2q"
+        clientSecret = "6e2af9a8aac4a22c067641efafe15a6194c8c80d"
       # Valine 评论系统设置
       [params.page.comment.valine]
         enable = false
