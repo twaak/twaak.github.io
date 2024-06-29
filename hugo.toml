@@ -496,11 +496,11 @@ optimizeImages = true
         enable = false
       #  Utterances 评论系统设置
       [params.page.comment.utterances]
-        enable = false
+        enable = true
         # owner/repo
-        repo = ""
+        repo = "twaak/gittalk"
         issueTerm = "pathname"
-        label = ""
+        label = "blog-comment"
         lightTheme = "github-light"
         darkTheme = "github-dark"
       #  Twikoo 评论系统设置
