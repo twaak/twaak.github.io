@@ -14,13 +14,21 @@ theme = "DoIt"
 
 [menu]
   [[menu.main]]
+    identifier = "home"
+    pre = ""
+    post = ""
+    name = "首页"
+    url = "/"
+    title = ""
+    weight = 1
+  [[menu.main]]
     identifier = "tags"
     pre = ""
     post = ""
     name = "标签"
     url = "/tags/"
     title = ""
-    weight = 1
+    weight = 2
   [[menu.main]]
     identifier = "categories"
     pre = ""
@@ -28,7 +36,7 @@ theme = "DoIt"
     name = "分类"
     url = "/categories/"
     title = ""
-    weight = 2
+    weight = 3
 
 [params]
   #  DoIt 主题版本
