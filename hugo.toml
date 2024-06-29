@@ -430,12 +430,12 @@ optimizeImages = true
         shortname = ""
       # Gitalk 评论系统设置
       [params.page.comment.gitalk]
-        # 
-        enable = false
-        owner = ""
-        repo = ""
-        clientId = ""
-        clientSecret = ""
+        
+        enable = true
+        owner = "twaak"
+        repo = "gittalk"
+        clientId = "Ov23lipRnQbdR3RXDrMD"
+        clientSecret = "bb7049bf7ee3e4ab330b53f1c1059d7e219af002"
       # Valine 评论系统设置
       [params.page.comment.valine]
         enable = false
