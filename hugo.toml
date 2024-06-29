@@ -433,7 +433,7 @@ optimizeImages = true
         
         enable = true
         owner = "twaak"
-        repo = "gittalk"
+        repo = "twaak.github.io"
         clientId = "Ov23limXIn0amKjW1b2q"
         clientSecret = "6e2af9a8aac4a22c067641efafe15a6194c8c80d"
       # Valine 评论系统设置
