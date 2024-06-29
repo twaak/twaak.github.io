@@ -208,7 +208,7 @@ optimizeImages = true
       # 是否显示社交账号
       social = true
       #  免责声明 (支持 HTML 格式)
-      disclaimer = "如有雷同，纯属巧合"
+      disclaimer = "Believe you can and you're halfway there."
     # 主页文章列表
     [params.home.posts]
       enable = true
