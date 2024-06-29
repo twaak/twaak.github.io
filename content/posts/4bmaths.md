@@ -4,7 +4,7 @@ draft: false
 date: 2024-06-29
 description: "小学四年级数学下册错题"
 featuredImage: "https://img.myla.eu.org/file/341c7f1e71cd4b118538d.png"
-tags: ["maths","错题"]
+tags: ["maths","错题","小学"]
 categories: ["maths"]
 ---
 
