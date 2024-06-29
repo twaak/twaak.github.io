@@ -1,7 +1,7 @@
 ---
 title: "给儿子的信"
 draft: false
-date: 2024-06-29
+date: 20219-09-01
 description: "一封写给周裕城的信"
 featuredImage: "https://img.myla.eu.org/file/861c116a6a23c0fbb6d11.jpg"
 tags: ["letter"]
