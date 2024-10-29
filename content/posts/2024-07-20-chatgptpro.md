@@ -1,16 +1,11 @@
 ---
-layout:       post
-title:        "ChatGPT Prompts"
-author:       "Gweek"
-header-style: text
-catalog:      true
-date:         2024-06-21
-cover:
-    image: "https://img.myla.eu.org/file/d55bfa8f6f28a5fca0a50.png"
-tags:
-    - Ai
+title: "ChatGPT Prompts"
+draft: false
+date: 2024-07-17
+description: "ChatGPT Prompts"
+tags: ["Chatgpt"]
+categories: ["技术分享"]
 ---
-
 
 
 ### 1.通俗易懂地解释复杂信息
