@@ -1,16 +1,10 @@
 ---
-layout:       post
-title:        "Google云设置SSH登陆"
-author:       "Gweek"
-header-style: text
-catalog:      true
-keywords:     谷歌云 SSH
-date:         2024-06-25
-tags:
-    - Google云 
-    - SSH登陆
-
-
+title: "Google云设置SSH登陆"
+draft: false
+date: 2024-08-03
+description: "谷歌云设置SSH登陆"
+tags: ["Google"]
+categories: ["技术分享"]
 ---
 
 ### 一、修改ssh配置文件并设置root密码
