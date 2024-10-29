@@ -1,15 +1,11 @@
 ---
-layout:       post
-title:        "Linux 文件系统结构"
-author:       "Gweek"
-header-style: text
-catalog:      true
-date:         2024-07-02
-tags:
-    - Linux
-    
+title: "Linux 文件系统结构"
+draft: false
+date: 2024-08-05
+description: "Linux文件系统结构"
+tags: ["Linux"]
+categories: ["技术分享"]
 ---
-
 
 
 
