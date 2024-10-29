@@ -1,14 +1,12 @@
 ---
-layout:       post
-title:        "Github Pages 如何添加自定义域"
-author:       "Gweek"
-header-style: text
-catalog:      true
-tags:
-    - github
-    - 自定义域名    
-date:         2024-06-23    
+title: "Github pages自定义域名"
+draft: false
+date: 2024-07-17
+description: "Github pages 自定义域名"
+tags: ["Github"]
+categories: ["技术分享"]
 ---
+
 ## 1. 购买和设置域名
 首先，你需要一个你拥有的域名。你可以通过任何域名注册服务商（如GoDaddy, Namecheap等）购买域名。
 
